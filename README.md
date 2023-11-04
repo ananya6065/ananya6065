@@ -1,7 +1,5 @@
 # 👩‍💻 Ananya Dhangar
 
-/*- **📧 Email**: ananya6065@gmail.com
-- **📞 Phone**: +91-8532976065*/
 - **🔗 LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/ananya-dhangar-826465220/)
 
 ## About Me
@@ -43,7 +41,7 @@
 ## 💡 Skills
 
 - **💻 Programming Languages**: C, C++, Python, SQL, JavaScript
-- **🌐 Platforms**: Windows, GitHub, WordPress, AutoCAD
+- **🌐 Platforms**: Windows, GitHub, WordPress
 - **🎨 Other technical skills**: HTML, CSS
 
 ## 📜 Certifications
