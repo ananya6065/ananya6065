@@ -10,7 +10,7 @@
 
 - **🏫 Jaypee University Of Information Technology** (September 2020 - June 2024)
   - Bachelor of Technology - Information Security
-  - 📊 CGPA: 8.2
+  - 📊 CGPA: 8.32
   - 🌍 Himachal Pradesh, India
   - 📚 Courses:
     - Operating Systems
